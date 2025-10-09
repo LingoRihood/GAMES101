@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Transformation.dir/main.cpp.o"
-  "CMakeFiles/Transformation.dir/main.cpp.o.d"
-  "Transformation"
+  "CMakeFiles/Transformation.dir/main.cpp.obj"
+  "CMakeFiles/Transformation.dir/main.cpp.obj.d"
+  "Transformation.exe"
+  "Transformation.exe.manifest"
   "Transformation.pdb"
+  "libTransformation.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

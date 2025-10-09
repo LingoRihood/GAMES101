@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ubuntu/GAMES101/hw0/main.cpp" "CMakeFiles/Transformation.dir/main.cpp.o" "gcc" "CMakeFiles/Transformation.dir/main.cpp.o.d"
+  "D:/cppProj/GAMES101/GAMES101/hw0/main.cpp" "CMakeFiles/Transformation.dir/main.cpp.obj" "gcc" "CMakeFiles/Transformation.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
